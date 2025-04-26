@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1c09ce0b-0f1f-4fda-9908-52c4706bf6d3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/file_drop_widget.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/file_drop_widget.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +58,7 @@
       <recent name="D:\Project\Python\FaceYOLO\FaceYOLO\core" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.split_video">
+  <component name="RunManager" selected="Python.file_drop_widget">
     <configuration name="embedding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FaceYOLO" />
       <option name="ENV_FILES" value="" />
@@ -190,8 +193,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.split_video" />
         <item itemvalue="Python.file_drop_widget" />
+        <item itemvalue="Python.split_video" />
         <item itemvalue="Python.utils" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.media2embedding" />

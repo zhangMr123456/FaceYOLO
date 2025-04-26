@@ -200,7 +200,7 @@ class MainWindow(QMainWindow):
             label, media_type = self.get_media_row_label(path)
             self.results_table.setCellWidget(row, 2, label)
 
-            media_button = QPushButton("播放视频")
+            media_button = QPushButton(media_type)
             media_button.clicked.connect(lambda _, p=path: self.play_media(p))
             self.results_table.setCellWidget(row, 3, media_button)
 

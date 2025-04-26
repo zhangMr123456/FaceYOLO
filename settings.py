@@ -10,5 +10,5 @@ FILE_MAX_BYTE_CNT = 1024 * 1024 * 10
 WRITE_BATCH_SIZE = 100
 
 YOLO_MODEL_PATH = r"D:\models\arnabdhar\YOLOv8-Face-Detection\model.pt"
-INDEX_PATH = "../backup/20250424/faiss_index.index"
-DATAMETA_PATH = "../backup/20250424/datameta.json"
+INDEX_PATH = "../backup/20250426/faiss_index.index"
+DATAMETA_PATH = "../backup/20250426/datameta.json"
